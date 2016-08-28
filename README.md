@@ -1,2 +1,2 @@
 # hello-world
-Tutorial project  
+Student in UMD MIM course about Information Environments
